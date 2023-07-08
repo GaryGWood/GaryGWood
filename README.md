@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaryGWood
-- 👀 I’m interested in just about anything code. It was a first love right out of college and I'm rediscovering it.
-- 🌱 I’m currently learning Python - long time developer, just need to get some new skills you know? Also, learning AI, the rth industrial revolution!
+- 👀 I’m interested in just about anything code. It was my first love right out of college and I'm rediscovering it.
+- 🌱 I’m currently learning Python - long-time developer, just need to get some new skills you know? Also, learning AI, the 4th industrial revolution!
 - 💞️ I’m looking to collaborate on anything really. 
 - 📫 How to reach me ...
 
